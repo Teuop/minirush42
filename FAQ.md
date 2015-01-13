@@ -29,3 +29,5 @@ A short rush, 4h max. Just training, no grade given, unlimited seats. Students m
 - Regarding a specific rush: organiser or subject author,
 - Suggestions, questions: minirush42@gmail.com,
 - Need a fast answer: gbarraul or sbenning.
+
+FAQ en français sur l'intra: [ici](https://forum.intrav2.42.fr/topics/702/messages)
