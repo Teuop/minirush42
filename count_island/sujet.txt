@@ -1,0 +1,22 @@
+count_island
+
+Fonctions autorisées : open, close, read, write, malloc, free
+
+
+Le programme prend en paramètre un ﬁchier contenant une série de lignes de longueurs égales contenant soit le caractere ’.’ soit le caractere ’X’. Ces lignes forment un rectangle de ’.’ comportant des ilots de ’X’.
+
+Une ligne est une suite de caractères ’.’ et de caracteres ’X’ qui se termine par un retour à la ligne. Les lignes font toutes la même taille. La taille maximum d’une ligne est 1024 caractères.
+
+Une colonne de caractères est formée par l’ensemble des caractères dans un ﬁchier qui sont séparés par le même nombre de caractères du début de leur ligne respective.
+
+On dit que deux caractères se touchent s’ils sont soit sur la même ligne et contigus, soit sur la même colone et sur des lignes contigues.
+
+Un ilot de ’X’ est formé par l’ensemble des caractères qui se touchent.
+
+Le programme doit parcourir le ﬁchier ligne par ligne et l’aﬃcher à l’écran en remplacant tous les ’X’ des ilots par leur numéro d’apparition dans le ﬁchier. Le programme devra eﬀectuer ce traitement en commancant par le début du ﬁchier.
+
+Il ne peut pas y avoir deux résultats diﬀérents pour un même ﬁchier.
+
+Si le ﬁchier est vide, qu’une erreur s’est produite (lignes de tailles diﬀérentes par exemple) ou qu'aucun ﬁchier n’est passé en paramètre, le programme écrit simplement le caractère de retour à la ligne sur sa sortie standard.
+
+Le ﬁchier comporte au maximum 10 ilots.
