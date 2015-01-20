@@ -49,7 +49,7 @@ Ceux qui veulent aller plus loin peuvent customiser en ajoutant des couleurs, un
 
 **Conseil** : utilisez le main de test mis gracieusement à votre disposition.
 
-le gagnant recevra un bisou de annguyen (ou de yyang en cas d'absence)
+le gagnant recevra un bisou de juschaef.
 
 le perdant recevra un bisou de juschaef (ne faites pas exprès de perdre, coquins ;)
 
