@@ -41,7 +41,7 @@ Objectif : Créer un pong pour 2 joueurs et un clavier.
 
 Toutes ces règles consistuent des étapes de progression, vous pouvez aussi bien partir sur la conception d'un jeu à peu près complet.
 
-Ceux qui veulent aller plus loin peuvent customiser en ajoutant des couleurs, un écran des scores, les cri de Venus Williams à chaque coup et les enfants qui courent et ramassent les balles.
+Ceux qui veulent aller plus loin peuvent customiser en ajoutant des couleurs, un écran des scores, les cris de Venus Williams à chaque coup et les enfants qui courent et ramassent les balles.
 
 ### Consignes
 
