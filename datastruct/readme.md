@@ -16,6 +16,8 @@ Le C est un langage fortement typé: il garantit que les types de données emplo
 
 Dans les exercices suivants, si les protos des fonctions ne sont pas donnés, c'est voulu.
 
+Quand une fonction est demandée, elle doit être accompagnée d'un main de test où elle est utilisée au moins une fois.
+
 ### Ex0: Tableaux de pointeurs, pointeurs de tableaux et adresses.
 
 Ecrire la fonction ft_destroy() qui libère la mémoire des éléments d’un tableau de pointeurs sur int, et qui les met à NULL, puis qui libère la mémoire allouée au tableau et met son pointeur à NULL (sa valeur dans la fonction appelante doit avoir été modifiée).
