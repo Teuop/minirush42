@@ -8,11 +8,11 @@ Ressources disponibles:
 
 - votre libft,
 - votre imagination,
-- votre get_next_line.
+- votre get\_next\_line.
 
 ### Préambule:
 
-Le C est un langage fortement typé: il garantit que les types de données employés décrivent correctement les données manipulées. De plus c’est un langage bas niveau: il permet de manipuler explicitement des registres, des adresses mémoires, voire des instructions machines.
+En C, le typage est un outil puissant. Il permet d'adopter de bonnes pratiques et de s'assurer que les données sont correctement manipulées. De plus le C est un langage bas niveau: il permet de manipuler explicitement des registres, des adresses mémoires, voire des instructions machines.
 
 Dans les exercices suivants, si les protos des fonctions ne sont pas donnés, c'est voulu.
 
@@ -26,7 +26,7 @@ Ecrire la fonction ft_reverse() qui prend en paramètre 2 pointeurs sur tableau 
 
 ### Ex1: Organisation de la mémoire.
 
-Écrire la fonction `char **sort_file(int fd);` qui retourne un tableau de chaînes de caractères contenant les lignes du fd lu (avec get_next_line), triées par ordre alphabétique.
+Écrire la fonction `char **sort_file(int fd);` qui retourne un tableau de chaînes de caractères contenant les lignes du fd lu (avec get\_next\_line), triées par ordre alphabétique.
 
 Bonus 0: A chaque ligne doit être associée la taille et le numéro de la ligne dans le fichier. (Vous pouvez pour cela modifier le type renvoyé par la fonction)
 
@@ -36,7 +36,7 @@ Bonus 1: Pourquoi ne pas renvoyer un arbre? Les arbres sont très pratiques pour
 
 La structure du code est tout aussi importante que la structure des données. Le but ici, est de se servir d’un CHARSET d’opérations permettant de moduler votre programme avec beaucoup de facilité.
 
-Fichiers à rendre: do_op.c, do_op.h
+Fichiers à rendre: do\_op.c, do\_op.h
 
 Votre fichier do_op.h comportera des prototypes de fonctions, des typedef et uniquement les instructions pré-processeur suivantes:
 
