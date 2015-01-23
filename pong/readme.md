@@ -4,7 +4,7 @@ Auteur : juschaef
 
 Temp imparti : 3 heures
 
-Objectif : Créer un pong pour 2 joueurs qui se joue sur un clavier.
+Objectif : Créer un pong pour 2 joueurs et un clavier.
 
 ### Règles de base
 
@@ -39,29 +39,30 @@ Objectif : Créer un pong pour 2 joueurs qui se joue sur un clavier.
 - la balle rebondit d'un angle différent suivant la zone de frappe sur la raquette,
 - l'angle change aussi si la raquette est en mouvement au moment de l'impact.
 
-Toutes ces règles consistuent des étapes de progression, mais vous pouvez aussi bien partir sur la conception d'un pong à peu près complet.
+Toutes ces règles consistuent des étapes de progression, vous pouvez aussi bien partir sur la conception d'un jeu à peu près complet.
 
-Ceux qui veulent aller plus loin peuvent customiser en ajoutant des couleurs, un écran des scores, les cri de Venus Williams à chaque coup et les enfants qui courent et ramassent les balles.
+Ceux qui veulent aller plus loin peuvent customiser en ajoutant des couleurs, un écran des scores, les cris de Venus Williams à chaque coup et les enfants qui courent et ramassent les balles.
 
 ### Consignes
 
-_Fonctions autorisées_ : ce que vous voulez tant que ca marche !
+**Fonctions autorisées** : ce que vous voulez tant que ca marche !
 
-_Conseil_ : utiliser le main de test mis gracieusement à votre disposition.
+**Conseil** : utilisez le main de test mis gracieusement à votre disposition.
 
-le gagnant recevra un bisou de annguyen (ou de yyang en cas d'absence)
+le gagnant recevra un bisou de juschaef.
 
-le perdant recevra un bisou de juschaef (interdit de faire exprès de perdre)
+le perdant recevra un bisou de juschaef (ne faites pas exprès de perdre, coquins ;)
 
-Dictons utiles :
+**Dictons utiles** :
 
-Réfléchir avant d'agir
+Réfléchir avant d'agir  *- Confucius*
 
-Les femmes et les enfants d'abord
+Les femmes et les enfants d'abord  *- Confucius*
 
-Tout vient à point à qui sait attendre
+Tout vient à point à qui sait attendre  *- Confucius*
 
-Qui s'endort avec le cul qui gratte se reveil avec les doigts qui puent.
+Qui s'endort avec le cul qui gratte se réveille avec les doigts qui puent  *- Confucius*
 
 Bisou !
+
 juschaef
