@@ -42,7 +42,7 @@ Votre fichier do_op.h comportera des prototypes de fonctions, des typedef et uni
 
 - `#define CHARSET_LEN 4`
 
-Ecrire le programme “do_op” qui affiche sur la sortie standard le résultat de l’opération représentée par "arg_v[2]" sur les opérandes "arg_v[1]" et "arg_v[3]".
+Ecrire le programme "do\_op" qui affiche sur la sortie standard le résultat de l’opération représentée par "arg\_v[2]" sur les opérandes "arg\_v[1]" et "arg\_v[3]".
 
 Exemple:
 
@@ -51,7 +51,7 @@ Exemple:
 
 Seuls les opérateurs représentés dans le CHARSET sont des paramètres valides.
 
-Votre programme devra être modulable: l’ajout d’un opérateur dans le CHARSET devra entrainer un minimum de modification du code. 
+Votre programme devra être modulable: l’ajout d’un opérateur dans le CHARSET devra entraîner un minimum de modification du code. 
 
 Bonus 0: Ajouter l’opérateur modulo '%' au CHARSET. (Si le code est bien organisé il suffit de rajouter une fonction et 1 ou 2 lignes de code).
 
